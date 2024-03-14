@@ -1,4 +1,0 @@
-1, Lusia, Brytyjska, 2016-04-15, 4, 55
-2, Puszka, Syjamska, 2017-05-22, 6, 40
-3, Burka, Maine Coon, 2016-03-11, 10, 70
-4, Miska, Ragdoll, 2016-06-18, 8, 65
