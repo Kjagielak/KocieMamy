@@ -1,0 +1,8 @@
+1, Maluszek, Brytyjska, 2018-03-21, 2, 35, 1
+2, Kuleczka, Syjamska, 2019-04-25, 3, 25, 2
+3, Płateczek, Maine Coon, 2018-02-19, 5, 45, 3
+4, Kłębek, Ragdoll, 2019-07-23, 4, 40, 4
+5, Burasek, Maine Coon, 2019-08-05, 5, 50, 3
+6, Lisek, Brytyjska, 2019-01-20, 2, 30, 1
+7, Puchatek, Ragdoll, 2019-09-15, 6, 42, 4
+8, Cizia, Maine Coon, 2019-08-05, 4, 40, 3
